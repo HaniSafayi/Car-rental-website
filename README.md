@@ -10,4 +10,4 @@ In our website, Users can search for available vehicles based on their preferenc
 - Javascript
 - MongoDB
 - REST API
-- FetchApi
+- Fetch API
