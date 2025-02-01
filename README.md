@@ -9,4 +9,5 @@ In our website, Users can search for available vehicles based on their preferenc
 - CSS
 - Javascript
 - MongoDB
-- RestApi
+- REST API
+- FetchApi
